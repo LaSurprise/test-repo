@@ -1,5 +1,3 @@
-Headers
-
 Header 1
 =========================
 
@@ -9,10 +7,6 @@ Header 2
 ### Header 3
 
 #### Header 4
-
-Lists
-
-Unordered List
 * Item 1
 * Item 2
   * Item 2a
@@ -24,9 +18,8 @@ Ordered List
    * Item 3a
    * Item 3b
 
-Blockquotes
-
 A friend once said:
 
 > It's always better to give 
-> than to receive.
+> than to receive. Acts 10:35
+![alt text](http://example.com/logo.png)
