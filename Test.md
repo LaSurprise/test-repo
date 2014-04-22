@@ -21,5 +21,6 @@ Ordered List
 A friend once said:
 
 > It's always better to give 
-> than to receive. Acts 10:35
+> than to receive. Acts 10:35  
+
 ![alt text](http://example.com/logo.png)
